@@ -15,7 +15,15 @@ public class CurrencyExchangeImpl  {
 	private CurrencyRepository currencyRepository;
 	
 	
-	
+	//this is main changes
+	public CurrencyExchange saveCurrency(CurrencyExchange currencyExchange)
+	{
+		if (!ObjectUtils.isEmpty(currencyExchange)) {
+			return currencyRepository.save(currencyExchange);
+		} else {
+			return null;
+		}
+	}
 	public CurrencyExchange saveCurrency(CurrencyExchange currencyExchange)
 	{
 		if (!ObjectUtils.isEmpty(currencyExchange)) {
