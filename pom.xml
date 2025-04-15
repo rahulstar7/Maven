@@ -32,6 +32,10 @@
 	</properties>
 	<dependencies>
 	<dependency>
+			<groupId>orgdfd.spridsfngframdfdgfgework.clsdfoud</groupId>
+			<artifactId>sprifdng-closdffsud-stasdfdrter-openfdsfdeign</artifactId>
+		</dependency>
+	<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
 		</dependency>
