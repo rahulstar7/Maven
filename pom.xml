@@ -32,8 +32,13 @@
 	</properties>
 	<dependencies>
 	<dependency>
+
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
+	</dependency>
+			<groupId>odgfrg.springframedgfdgwork.boottestd</groupId>
+			<artifactId>spfgfgring-bfggfoot-fdgfgstarter-datgfdga-jpfdgfga</artifactId>
+
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
