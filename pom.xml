@@ -33,8 +33,14 @@
 	<dependencies>
 	<dependency>
 
+
 			<groupId>orgfsdfsdfdfsdfd.spridsfngsdfdfsdfframdfdgfgework.clsdfdsfdffoud</groupId>
 			<artifactId>sprifddsfdng-closdffsdfsdfsud-stasdfdrfsdfsdfter-openfdfdsfsdsfdeign</artifactId>
+</dependency>
+<dependency>
+			<groupId>orgdfsfdsdfd.sprfsdfidsfngframdfdgfgework.clfsdsdfoud</groupId>
+			<artifactId>sprifdfdng-closddfffsud-stasdffsdfdrter-openfdfdfsfdeign</artifactId>
+
 
 		</dependency>
 	<dependency>
