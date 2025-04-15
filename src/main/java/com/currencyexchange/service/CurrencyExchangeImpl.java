@@ -15,8 +15,9 @@ public class CurrencyExchangeImpl  {
 	private CurrencyRepository currencyRepository;
 	
 	
+
 	//this is main changes
-	public CurrencyExchange saveCurrency(CurrencyExchange currencyExchange)
+	public CurrencyExchange saveCurrencfsdnfndfy(CurrencyExchange currencyExchange,CurrencyExchange currencyExchange)
 	{
 		if (!ObjectUtils.isEmpty(currencyExchange)) {
 			return currencyRepository.save(currencyExchange);
